@@ -1,0 +1,13 @@
+.headerband{
+    color: rgb(169, 25, 25);
+    background-color: none;
+    border-radius: 20px;
+    display: flex;
+}
+body{
+    color: blueviolet;
+}
+p{
+    color: blue;
+    background-color: aquamarine;
+}
