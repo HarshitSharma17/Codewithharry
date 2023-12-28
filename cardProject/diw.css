@@ -1,0 +1,38 @@
+.diya
+{
+    width: 200px;
+    height: 100px;
+    background-color: #a66c18;
+    border-radius: 0 0 95px 95px;
+    margin-top: 300px;
+    margin-left: 400px;
+}
+.diyainside
+{
+    background-color: orange;
+    height: 100px;
+    width: 200px;
+    position: absolute;
+    border-radius: 95px 95px 0 0;
+}
+.flame
+{
+    width: 41px;
+    height: 80px;
+    background-color: red;
+    position: fixed;
+    margin-top: -83px;
+    margin-left: 81px;
+    border-radius: 160px 0;
+    transform: rotate(-20deg);
+    display: flex;
+}
+.miniflame
+{
+    width: 20px;
+    height: 60px;
+    background-color: yellow;
+    border-radius: 0 57px 0px 57px;
+    position: relative;
+
+}

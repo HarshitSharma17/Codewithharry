@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --color:rgb(180, 26, 26);
+    --seccolor:rgb(191, 113, 113);
+    --varopac: 0.9;
+}
+ul li{
+    display: inline-block;
+    padding: 35px;
+    margin: 12px;
+}
+
+ul li:first-child{
+    --color:green;
+    background-color: var(--color);
+}
+.container{
+    background-color: var(--seccolor);
+    opacity: var(--varopac);
+}
+.nav
+{
+    background-color: var(--color);
+    
+}
